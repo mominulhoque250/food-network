@@ -45,3 +45,26 @@ section{
     padding-left: 20px;
     padding-right: 20px;
 }
+#center {
+    text-align: justify;
+}
+.sectionthree {
+    width: 27%;
+    height: 600px;
+    margin-right: 1%;
+    margin-left: 1%;
+    border-radius: 25px;
+    box-shadow: rgba(0,0,0,0,0.35) 0px 5px 15px;
+    text-align: left;
+
+}
+.sectionthree img {
+    width: min-content;
+}
+.footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 100%;
+    padding: 20px 0 100px 0px;
+  }
